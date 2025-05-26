@@ -355,7 +355,7 @@ console.log("main.js script started");
           { cat: '獲利能力', cat_en: 'Profitability', ratios: ['eps', 'roa', 'roe', 'pm'] },
           { cat: '評價指標', cat_en: 'Valuation', ratios: ['pe', 'ps'] },
           { cat: '償債能力', cat_en: 'Liquidity', ratios: ['current', 'quick', 'cash'] },
-          { cat: '經營效率', cat_en: 'Efficiency', ratios: ['invTurn', 'nwcTurn', 'assetTurn'] },
+          { cat: '經營效率', cat_en: 'Efficiency', ratios: ['nwcTurn', 'assetTurn'] },
           { cat: '財務結構', cat_en: 'Leverage', ratios: ['debt', 'de', 'em'] }
       ];
 
